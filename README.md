@@ -1,4 +1,4 @@
-# distance-calculator
+# *distance-calculator*
 ## Description
 This program converts kilometers and miles
 
