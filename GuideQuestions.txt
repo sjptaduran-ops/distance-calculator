@@ -1,0 +1,10 @@
+1. What comments did you add, and why?
+- I added comments for the parts that might've been unclear, so that others can understand it.
+2. What variable names or formatting did you improve?
+- I used kmd and kmD for kilometers, it stands for kilometer distance. As well as md and mD, stands for mile distance
+3. What did you include in your README.md file?
+- I included the description, how to run, input needed, sample output, and author.
+4. How did your changes make the program easier to understand?
+- The changes helped make sense of what was going on in the code
+5. What is the link to your GitHub repository?
+-https://github.com/sjptaduran-ops/distance-calculator
