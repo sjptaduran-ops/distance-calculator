@@ -1,5 +1,6 @@
 # distance-calculator
-## This program converts kilometers to miles
+## Description
+This program converts kilometers and miles
 
 
 ## How to Run
